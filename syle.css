@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    background-color: darkgrey;
+    margin: 0%;
+}
+
+.header-div {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+.header-content {
+    width: 85%;
+    height: auto;
+    font-size: small;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 150px;
+    padding-top: 15px;
+}
+
+.a {
+    color: white;
+    text-decoration: none;
+}
