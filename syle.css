@@ -155,7 +155,6 @@ body {
   height: 430px;
   background-image: url('Asset/echet5.jpeg');
   background-size: cover;
-  opacity: 0.5;
 }
 
 .child2{
@@ -166,26 +165,32 @@ body {
 
 .parent2 {
   display: flex;
+  justify-content: start;
   width: 1090px;
   height: 256px;
-  margin-top: 20px;
-  background-color: rgb(96, 41, 41);
+  margin-top: 29px;
 }
 
 .child3{
-  width: 900px;
-  height: 430px;
-  background-color: white;
+  width: 400px;
+  height: 260px;
+  background-image: url('Asset/echet9.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .child4{
   width: 400px;
-  height: 430px;
-  background-color: white;
+  height: 260px;
+  background-image: url('Asset/echet8.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .child5{
   width: 400px;
-  height: 430px;
-  background-color: white;
+  height: 260px;
+  background-image: url('Asset/echet3.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
