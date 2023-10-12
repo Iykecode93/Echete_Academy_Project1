@@ -247,13 +247,15 @@ body {
   width: auto;
   font-family: sans-serif;
   color: darkgray;
-  margin-top: 20px;
 }
 
 .more-news {
   margin-left: 20px;
-  margin-top: 1px;
-  width: 370px;
+  margin-top: 5px;
+  width: 375px;
+  background-color: rgb(225, 214, 214);
+  height: 30px;
+  padding-top: 8px;
 }
 
 .parent2 {
