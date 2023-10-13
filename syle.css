@@ -59,6 +59,8 @@ body {
   font-weight: bolder;
   color: white;
   padding-left: 60px;
+  display: flex;
+  align-items: center;
 }
 
 .rectangle {
@@ -129,7 +131,9 @@ body {
 .sidebar {
   width: 75px;
   height: 794px;
-  background-color: black;
+  background-image: url(Asset/footer.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .asidebar {
